@@ -12,7 +12,7 @@ export default function Header() {
                 PRAD
             </span>
             <span className='text-slate-700'>
-                SALES
+                SALES!!
             </span>
         </h1>
         </Link>
