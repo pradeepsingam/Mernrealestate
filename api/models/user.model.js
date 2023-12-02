@@ -1,6 +1,5 @@
-import mangoose from 'mangoose';
 import mongoose from 'mongoose';
-const { Schema } = mangoose;
+const { Schema } = mongoose;
 
 const userSchema = new Schema({
     username: {
