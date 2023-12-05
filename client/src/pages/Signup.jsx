@@ -45,7 +45,7 @@ export default function Signup() {
   return (
     <div>
       <h1 className='text-3xl text-center my-7 font-semibold'>
-        Sign up
+        SIGN UP
       </h1>
       <form onSubmit={handleSubmit} className='flex flex-col gap-4 max-w-lg mx-auto'>
         <input type='text' placeholder='Username' className='border p-3 rounded-lg' id='username' onChange={handleChange} />
